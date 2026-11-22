@@ -1,0 +1,9 @@
+Prompt used to generate docs/cover_master.png (16:9 key art, no text; typography composited separately to 800x450 workshop/preview.png):
+
+Generate a cinematic 16:9 widescreen post-apocalyptic survival game key art illustration (no text, no letters, no numbers, no logos, no watermarks, no UI overlays) for a ZED ZONE game mod cover, matching the gritty dark cinematic mood, lighting contrast, and composition of a AAA zombie-survival promo art.
+
+Subject: A rugged, battle-worn olive-drab and dark charcoal military tactical patrol backpack (MOLLE webbing, heavy straps, metal buckles, side pouches, carabiners, a clipped flashlight, and a slightly unzipped top compartment neatly packed with survival gear: medkit, ammo mag, canteen, tactical radio) resting heroically in the center on weathered wooden planks and shattered concrete rubble.
+
+Atmosphere & Lighting: Dark stormy twilight sky over ruined overgrown post-apocalyptic city buildings in the background; warm amber-orange firelight and floating embers glowing from the lower-left rubble; cool steel-blue moonlight and misty rain haze from the upper-right; subtle emerald-green tactical glow from a small radio/medkit LED on the pack. High-contrast painterly realism, crisp textures, dramatic rim lighting.
+
+Composition: 16:9 landscape aspect ratio. Keep the top 22% dark moody sky and the bottom 12% dark shadowed foreground rubble clean and uncluttered so title typography can be overlaid later.

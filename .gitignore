@@ -1,0 +1,12 @@
+bin/
+obj/
+dist/
+tools/TestHarness/bin/
+tools/TestHarness/obj/
+tools/TestHarness/*report.json
+tools/TestHarness/screenshots/
+workshop/Contents/
+workshop/preview_raw.png
+*.user
+*.suo
+.vs/
